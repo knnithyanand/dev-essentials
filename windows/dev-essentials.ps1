@@ -32,7 +32,6 @@ choco install -y dotnetcore-sdk
 choco install -y dotnetcore-windowshosting
 choco install -y yarn
 choco install -y wget
-choco install -y sysinternals
 choco install -y docker-for-windows
 choco install -y git -params '"/GitAndUnixToolsOnPath /WindowsTerminal"'
 choco install -y vscode
