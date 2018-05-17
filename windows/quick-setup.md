@@ -10,4 +10,4 @@ To run a setup script, click a link in the table below from your target machine.
 
 | Recipie | Description | Ingredients |
 --|--|--
-[Dev Essentials]() | Essential tools for any developer | Git, VS Code, Node LTS, .NET Core, Multiple Browsers
+[Dev Essentials](http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/knnithyanand/dev-essentials/master/windows/dev-essentials.ps1) | Essential tools for any developer | Git, VS Code, Node LTS, .NET Core, Multiple Browsers
